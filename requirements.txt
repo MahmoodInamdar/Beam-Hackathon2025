@@ -1,0 +1,17 @@
+requests
+pyairtable
+streamlit
+pillow          
+PyPDF2
+pytesseract
+pdf2image
+langchain
+langchain-openai
+langgraph
+pydantic
+openai
+pdfplumber
+dotenv
+pypdf
+Levenshtein
+scikit-learn

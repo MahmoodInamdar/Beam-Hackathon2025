@@ -1,0 +1,1318 @@
+File ID,Expected Output,Dataset,File
+Invoice_recwT45kbPkb2I1jp,"{
+  ""total_gross"": 12.64,
+  ""total_net"": 10.62,
+  ""business_name"": ""SSP Deutschland, The Squire 24, 60549 Frankfurt am Main DTE"",
+  ""items"": [
+    {
+      ""name"": ""BK Menü Whopper"",
+      ""price"": 11.39
+    },
+    {
+      ""name"": ""BK Extra Cheese gr."",
+      ""price"": 1.25
+    }
+  ]
+}",Invoice,invoice_recwT45kbPkb2I1jp.pdf
+Invoice_recx4wg6mwAac34bH,"{
+  ""total_gross"": 15.48,
+  ""total_net"": 13.01,
+  ""business_name"": ""BURGER KING®"",
+  ""items"": [
+    {
+      ""name"": ""Chili Cheese Nuggets 6 Stk."",
+      ""price"": 2.99
+    },
+    {
+      ""name"": ""Cheesy Rösti Lover Beef Double King Menü Klein"",
+      ""price"": 12.49
+    }
+  ]
+}",Invoice,invoice_recx4wg6mwAac34bH.pdf
+Invoice_rec6jnwamPj8m1u5y,"{
+  ""total_gross"": 131.70,
+  ""total_net"": 110.67,
+  ""business_name"": ""Brauhaus an der Thomaskirche"",
+  ""items"": [
+    {
+      ""name"": ""Steinpilzcremesuppe"",
+      ""price"": 17.80
+    },
+    {
+      ""name"": ""Tomatensuppe"",
+      ""price"": 15.00
+    },
+    {
+      ""name"": ""Apfelschorle 0,5l"",
+      ""price"": 11.00
+    },
+    {
+      ""name"": ""Pils Thomask. 0,5l"",
+      ""price"": 10.40
+    },
+    {
+      ""name"": ""Schwarz Thomask. 0,5l"",
+      ""price"": 20.80
+    },
+    {
+      ""name"": ""Pizza Salame Prosc."",
+      ""price"": 12.90
+    },
+    {
+      ""name"": ""Pizza Tonno Cipolla"",
+      ""price"": 12.90
+    },
+    {
+      ""name"": ""Spaghetti Carbonara"",
+      ""price"": 14.90
+    },
+    {
+      ""name"": ""Gnocchi al Gorgonzol"",
+      ""price"": 16.00
+    }
+  ]
+}",Invoice,invoice_rec6jnwamPj8m1u5y.pdf
+Invoice_recHWC7qGba0eRogA,"{
+  ""total_gross"": 403.42,
+  ""total_net"": 339.01,
+  ""business_name"": ""Zweirad-Center Stadler, Straße des 18. Oktober 46, 04103 Leipzig"",
+  ""items"": [
+    {
+      ""name"": ""Bremsscheibe 6-Loch 160mm, SMRT66 Metal/Resin"",
+      ""price"": 19.99
+    },
+    {
+      ""name"": ""Bremsscheibe 6-Loch 180mm, SMRT66 Metal/Resin"",
+      ""price"": 21.99
+    },
+    {
+      ""name"": ""Adapter Satz für Disc-Br mit Schrauben"",
+      ""price"": 8.99
+    },
+    {
+      ""name"": ""Scheibenbremse MT501 2-Kolben, HR, I-Spec II, Resin"",
+      ""price"": 69.99
+    },
+    {
+      ""name"": ""Scheibenbremse MT501 2-Kolben, VR, I-Spec II, Resin"",
+      ""price"": 64.99
+    },
+    {
+      ""name"": ""Kette CN-HG71 6/7/8-fach, 138 Glieder"",
+      ""price"": 21.99
+    },
+    {
+      ""name"": ""Kassette HG51 8-fach, 11-32 Zähne"",
+      ""price"": 21.99
+    },
+    {
+      ""name"": ""Bremsscheiben erneuern vorn zzgl. Material"",
+      ""price"": 28.50
+    },
+      ""name"": ""Bremsscheiben erneuern hinten zzgl. Material"",
+      ""price"": 28.50
+    },
+      ""name"": ""Hydraulische Bremsanlage montieren vorn&hinten zzgl. Mat"",
+      ""price"": 76.00
+    },
+      ""name"": ""Katte & Kassette wechseln zzgl. Material"",
+      ""price"": 38.00
+    },
+      ""name"": ""Klein- und Reinigungsmaterial"",
+      ""price"": 2.49
+    },
+      ""name"": ""Altteile dürfen entsorgt werden"",
+      ""price"": 0.00
+    }
+  ]
+}",Invoice,invoice_recHWC7qGba0eRogA.pdf
+Invoice_rec9yGb4g2P2NHJda,"{
+  ""total_gross"": 12.29,
+  ""total_net"": 10.33,
+  ""business_name"": ""Burger King"",
+  ""items"": [
+    {
+      ""name"": ""Big King XXL® King Menü"",
+      ""price"": 12.29
+    }
+  ]
+}",Invoice,invoice_rec9yGb4g2P2NHJda.pdf
+Invoice_recYsN9Su9On0ER58,"{
+  ""total_gross"": 15.79,
+  ""total_net"": 13.28,
+  ""business_name"": ""Burger King"",
+  ""items"": [
+    {
+      ""name"": ""King's Emo D M"",
+      ""price"": 15.79
+    }
+  ]
+}",Invoice,invoice_recYsN9Su9On0ER58.pdf
+Invoice_recVLrTGQIsXWavzz,"{
+  ""total_gross"": 209.40,
+  ""total_net"": 175.97,
+  ""business_name"": ""Chito Gvrito"",
+  ""items"": [
+    {
+      ""name"": ""Pils vom Fass 0,5"",
+      ""price"": 10.40
+    },
+    {
+      ""name"": ""Georgische Bier"",
+      ""price"": 24.00
+    },
+    {
+      ""name"": ""Tarchun 0,4"",
+      ""price"": 32.50
+    },
+    {
+      ""name"": ""tatara"",
+      ""price"": 30.00
+    },
+    {
+      ""name"": ""Vorspeise groß"",
+      ""price"": 18.00
+    },
+    {
+      ""name"": ""Brot"",
+      ""price"": 3.00
+    },
+    {
+      ""name"": ""O4 Adjaruli"",
+      ""price"": 35.00
+    },
+    {
+      ""name"": ""Chakapuli"",
+      ""price"": 18.50
+    },
+    {
+      ""name"": ""Soko Kezse Käse"",
+      ""price"": 14.00
+    },
+    {
+      ""name"": ""Schachlik Schwein"",
+      ""price"": 18.00
+    },
+    {
+      ""name"": ""kartoffel"",
+      ""price"": 6.00
+    }
+  ]
+}",Invoice,invoice_recVLrTGQIsXWavzz.pdf
+Invoice_recegdkB6dUZaZREr,"{
+  ""total_gross"": 146.71,
+  ""total_net"": 134.80,
+  ""business_name"": ""The Cloud One Hamburg-Kontorhaus"",
+  ""items"": [
+    {
+      ""name"": ""Best Price including Breakfast"",
+      ""price"": 146.71
+    }
+  ]
+}",Invoice,invoice_recegdkB6dUZaZREr.pdf
+Invoice_recp4HVkuHiEIxUGK,"{
+  ""total_gross"": 64.99,
+  ""total_net"": 54.61,
+  ""business_name"": ""Deichmann SE"",
+  ""items"": [
+    {
+      ""name"": ""Nike"",
+      ""price"": 64.99
+    }
+  ]
+}",Invoice,invoice_recp4HVkuHiEIxUGK.pdf
+Invoice_recFZbWJ4SV9foXR5,"{
+  ""total_gross"": 4.60,
+  ""total_net"": 4.30,
+  ""business_name"": ""dm-drogerie markt"",
+  ""items"": [
+    {
+      ""name"": ""dmBio Grüner Tee Chun Mee"",
+      ""price"": 2.65
+    },
+    {
+      ""name"": ""Bad Heilbr. Mate Pur Tee"",
+      ""price"": 1.95
+    }
+  ]
+}",Invoice,invoice_recFZbWJ4SV9foXR5.pdf
+Invoice_recdlroCOu1RyjeqE,"{
+  ""total_gross"": 73.80,
+  ""total_net"": 62.02,
+  ""business_name"": ""Cyberport Store Leipzig"",
+  ""items"": [
+    {
+      ""name"": ""Samsung EP-TA5150 EP-TA5150XBEGEU"",
+      ""price"": 36.90
+    },
+    {
+      ""name"": ""Samsung EP-TA5150 EP-TA5150XBEGEU"",
+      ""price"": 36.90
+    }
+  ]
+}",Invoice,invoice_recdlroCOu1RyjeqE.pdf
+Invoice_recTyYF4RD1TGZ8bv,"{
+  ""total_gross"": 13.50,
+  ""total_net"": 12.25,
+  ""business_name"": ""dm-drogerie markt"",
+  ""items"": [
+    {
+      ""name"": ""Cupper Weisser Tee u.Himb.34g"",
+      ""price"": 2.95
+    },
+    {
+      ""name"": ""dmBio Grüner Tee Chun Mee"",
+      ""price"": 2.65
+    },
+    {
+      ""name"": ""Pukka Matcha Green 20x1,5g-30g"",
+      ""price"": 3.02
+    },
+    {
+      ""name"": ""Oral-B Zahncrème Extra frisch"",
+      ""price"": 3.95
+    }
+  ]
+}",Invoice,invoice_recTyYF4RD1TGZ8bv.pdf
+Invoice_recgDb5Sy3oFtu7Fo,"{
+  ""total_gross"": 6.60,
+  ""total_net"": 6.17,
+  ""business_name"": ""dm-drogerie markt Grimmaische Straße 14, 04109 Leipzig, Deutschland"",
+  ""items"": [
+    {
+      ""name"": ""dmBio Grüner Tee Chun Mee"",
+      ""price"": 2.65
+    },
+    {
+      ""name"": ""Pukka Matcha Green 20x1,5g=30g"",
+      ""price"": 3.95
+    }
+  ]
+}",Invoice,invoice_recgDb5Sy3oFtu7Fo.pdf
+Invoice_rectSMsOc2o2ZggMB,"{
+  ""total_gross"": 84.10,
+  ""total_net"": 70.67,
+  ""business_name"": ""Don Giovanni"",
+  ""items"": [
+    {
+      ""name"": ""Moretti 0,4l Birra"",
+      ""price"": 9.00
+    },
+    {
+      ""name"": ""Orange 0,4"",
+      ""price"": 9.00
+    },
+    {
+      ""name"": ""Fl. Schwarzbier 0,5l"",
+      ""price"": 9.60
+    },
+    {
+      ""name"": ""Bruschetta"",
+      ""price"": 6.50
+    },
+    {
+      ""name"": ""Pizzabrot Knoblauch"",
+      ""price"": 5.50
+    },
+    {
+      ""name"": ""Spaghetti Carbo. Tradi"",
+      ""price"": 14.50
+    },
+    {
+      ""name"": ""Tagliatelle al Salmone"",
+      ""price"": 17.50
+    },
+    {
+      ""name"": ""Rigatoni Don Giovanni"",
+      ""price"": 12.50
+    }
+  ]
+}",Invoice,invoice_rectSMsOc2o2ZggMB.pdf
+Invoice_recrhmZAxkVJLxvOK,"{
+  ""total_gross"": 54.75,
+  ""total_net"": 46.01,
+  ""business_name"": ""Cafe Extrablatt"",
+  ""items"": [
+    {
+      ""name"": ""Frischer O-Saft 0,2"",
+      ""price"": 3.45
+    },
+    {
+      ""name"": ""Gr. Schümli Kaffee"",
+      ""price"": 22.00
+    },
+    {
+      ""name"": ""Beck’s Alkoholfrei 0,33"",
+      ""price"": 7.90
+    },
+    {
+      ""name"": ""American Breakfast"",
+      ""price"": 10.45
+    },
+    {
+      ""name"": ""Hemingway"",
+      ""price"": 10.95
+    }
+  ]
+}",Invoice,invoice_recrhmZAxkVJLxvOK.pdf
+Invoice_recaRfVgkqFM1Pkho,"{
+  ""total_gross"": 22.49,
+  ""total_net"": 20.25,
+  ""business_name"": ""HIT Frische GmbH & Co. KG"",
+  ""items"": [
+    {
+      ""name"": ""Oregano"",
+      ""price"": 0.89
+    },
+    {
+      ""name"": ""Knoblauch rosa"",
+      ""price"": 1.79
+    },
+    {
+      ""name"": ""Champig. Crem"",
+      ""price"": 2.49
+    },
+    {
+      ""name"": ""Mutti Passata"",
+      ""price"": 1.59
+    },
+    {
+      ""name"": ""Gehacktes R/S"",
+      ""price"": 2.81
+    },
+    {
+      ""name"": ""GLB Schinken-Pfeffer"",
+      ""price"": 4.99
+    },
+    {
+      ""name"": ""Milr.Reibek.Auril"",
+      ""price"": 2.59
+    },
+    {
+      ""name"": ""Weih. Sahne z. K"",
+      ""price"": 3.10
+    },
+    {
+      ""name"": ""R.to go Granatap"",
+      ""price"": 1.99
+    }
+  ]
+}",Invoice,invoice_recaRfVgkqFM1Pkho.pdf
+Invoice_recjlWooL6XMcsS31,"{
+  ""total_gross"": 13.75,
+  ""total_net"": 12.85,
+  ""business_name"": ""go asia Supermarkt"",
+  ""items"": [
+    {
+      ""name"": ""Milikis Milchgetränk Soda 500ml"",
+      ""price"": 2.39
+    },
+    {
+      ""name"": ""Milikis Milchgetränk Soda 500ml"",
+      ""price"": 2.39
+    },
+    {
+      ""name"": ""Milikis Milchgetränk Soda 500ml"",
+      ""price"": 2.39
+    },
+    {
+      ""name"": ""Waffeln Sojamilch Geschmack 1 12,8g Bourbon"",
+      ""price"": 3.99
+    },
+    {
+      ""name"": ""Kaffee Bonbons mit Vanillecreme Füllung Espresso 150g"",
+      ""price"": 2.59
+    }
+  ]
+}",Invoice,invoice_recjlWooL6XMcsS31.pdf
+Invoice_recJ8V0Lvp9Q2dguR,"{
+  ""total_gross"": 270.30,
+  ""total_net"": 227.14,
+  ""business_name"": ""Steakhaus EL TORO"",
+  ""items"": [
+    {
+      ""name"": ""Pfefferhüft Steak"",
+      ""price"": 33.00
+    },
+    {
+      ""name"": ""Rumpsteak Grande"",
+      ""price"": 35.80
+    },
+    {
+      ""name"": ""Filet Mediano"",
+      ""price"": 32.00
+    },
+    {
+      ""name"": ""Pfefferfilet 300 GR"",
+      ""price"": 49.00
+    },
+    {
+      ""name"": ""Papa Asada"",
+      ""price"": 19.50
+    },
+    {
+      ""name"": ""Frische Champignonköpfe"",
+      ""price"": 6.80
+    },
+    {
+      ""name"": ""Vanille Eis mit Schattenmorellen"",
+      ""price"": 21.00
+    },
+    {
+      ""name"": ""Palatschinken mit Vanille Eis"",
+      ""price"": 11.50
+    },
+    {
+      ""name"": ""0.5 Krefelder"",
+      ""price"": 16.50
+    },
+    {
+      ""name"": ""0.5 Brinkhoffs Nr. 1"",
+      ""price"": 11.00
+    },
+    {
+      ""name"": ""0.3 Brinkhoffs"",
+      ""price"": 7.00
+    },
+    {
+      ""name"": ""0.5 Weizen"",
+      ""price"": 16.50
+    },
+    {
+      ""name"": ""0.3 Radler"",
+      ""price"": 3.50
+    },
+    {
+      ""name"": ""0.3 Pepsi"",
+      ""price"": 7.20
+    }
+  ]
+}",Invoice,invoice_recJ8V0Lvp9Q2dguR.pdf
+Invoice_recFVad91IksK2PRS,"{
+  ""total_gross"": 161.30,
+  ""total_net"": 135.55,
+  ""business_name"": ""Restaurant Herkules"",
+  ""items"": [
+    {
+      ""name"": ""341 PILS 0,5"",
+      ""price"": 20.00
+    },
+    {
+      ""name"": ""345 HEFE DUNKEL 0,5"",
+      ""price"": 14.70
+    },
+    {
+      ""name"": ""340 PILS 0,3"",
+      ""price"": 3.80
+    },
+    {
+      ""name"": ""312 APFELSCHORLE 0,3"",
+      ""price"": 12.60
+    },
+    {
+      ""name"": ""1 GIOUwARLAKIA"",
+      ""price"": 13.60
+    },
+    {
+      ""name"": ""10 TIROPITA"",
+      ""price"": 17.80
+    },
+    {
+      ""name"": ""103 KALAMARIA"",
+      ""price"": 19.50
+    },
+    {
+      ""name"": ""141 GYROS ÜBERBACKEN"",
+      ""price"": 21.50
+    },
+    {
+      ""name"": ""144 BIFTEKI"",
+      ""price"": 18.90
+    },
+    {
+      ""name"": ""174 AKROPOLIS-TELLE"",
+      ""price"": 18.90
+    }
+  ]
+}",Invoice,invoice_recFVad91IksK2PRS.pdf
+Invoice_recMytYUsgJeNIvMn,"{
+  ""total_gross"": 24.15,
+  ""total_net"": 20.29,
+  ""business_name"": ""FIVE GUYS GERMANY GmbH"",
+  ""items"": [
+    {
+      ""name"": ""BACON CHEESEBURGER"",
+      ""price"": 12.95
+    },
+    {
+      ""name"": ""FRIES REGULAR"",
+      ""price"": 7.25
+    },
+    {
+      ""name"": ""SODA"",
+      ""price"": 3.95
+    }
+  ]
+}",Invoice,invoice_recMytYUsgJeNIvMn.pdf
+Invoice_recjghWDGwQlrE73F,"{
+  ""total_gross"": 112.99,
+  ""total_net"": 94.95,
+  ""business_name"": ""MEDIA MARKT"",
+  ""items"": [
+    {
+      ""name"": ""EPSON PERFECTION V 39 II 304 SCANNER"",
+      ""price"": 112.99
+    }
+  ]
+}",Invoice,invoice_recjghWDGwQlrE73F.pdf
+Invoice_recc2k6CJbofrzPXc,"{
+  ""total_gross"": 9.90,
+  ""total_net"": 9.25,
+  ""business_name"": ""Ludwig. Unternehmensgruppe Dr. Eckert GmbH"",
+  ""items"": [
+    {
+      ""name"": ""IX Magazin"",
+      ""price"": 9.90
+    }
+  ]
+}",Invoice,invoice_recc2k6CJbofrzPXc.pdf
+Invoice_rec2WDyPSoXCXpCUS,"{
+  ""total_gross"": 10.99,
+  ""total_net"": 9.23,
+  ""business_name"": ""Stefan Timme Familiengastronomie e.K."",
+  ""items"": [
+    {
+      ""name"": ""Der M MM"",
+      ""price"": 10.99
+    }
+  ]
+}",Invoice,invoice_rec2WDyPSoXCXpCUS.pdf
+Invoice_recTouqIbcBvNnUqC,"{
+  ""total_gross"": 10.89,
+  ""total_net"": 9.15,
+  ""business_name"": ""McDonald's Deutschland LLC"",
+  ""items"": [
+    {
+      ""name"": ""Double Cheese MM"",
+      ""price"": 10.89
+    }
+  ]
+}",Invoice,invoice_recTouqIbcBvNnUqC.pdf
+Invoice_rec57vCzQp1BzyxR9,"{
+  ""total_gross"": 95.90,
+  ""total_net"": 88.03,
+  ""business_name"": ""Motel One"",
+  ""items"": [
+    {
+      ""name"": ""Bestpreis mit Frühstück"",
+      ""price"": 95.90
+    }
+  ]
+}",Invoice,invoice_rec57vCzQp1BzyxR9.pdf
+Invoice_rec2YTyfnPoBgjXMp,"{
+  ""total_gross"": 162.85,
+  ""total_net"": 150.61,
+  ""business_name"": ""Motel One Berlin-Hauptbahnhof"",
+  ""items"": [
+    {
+      ""name"": ""Best Price including Breakfast"",
+      ""price"": 162.85
+    }
+  ]
+}",Invoice,invoice_rec2YTyfnPoBgjXMp.pdf
+Invoice_rechgq2ZV9vuDcYwS,"{
+  ""total_gross"": 120.45,
+  ""total_net"": 101.22,
+  ""business_name"": ""Mississippi"",
+  ""items"": [
+    {
+      ""name"": ""Mo Jo"",
+      ""price"": 10.90
+    },
+    {
+      ""name"": ""Jum.Pornostar"",
+      ""price"": 15.90
+    },
+    {
+      ""name"": ""JUM:MARACUJA SAFAR"",
+      ""price"": 16.90
+    },
+    {
+      ""name"": ""Jum.Nikita"",
+      ""price"": 16.90
+    },
+    {
+      ""name"": ""JUM.Nikita"",
+      ""price"": 10.50
+    },
+    {
+      ""name"": ""Jum.Pornostar"",
+      ""price"": 10.50
+    },
+    {
+      ""name"": ""0,4 Cola"",
+      ""price"": 4.95
+    },
+    {
+      ""name"": ""Jum.Miami’s Best"",
+      ""price"": 10.50
+    },
+    {
+      ""name"": ""Apple Sour"",
+      ""price"": 13.80
+    },
+    {
+      ""name"": ""Mexikaner 2cl"",
+      ""price"": 9.60
+    }
+  ]
+}",Invoice,invoice_rechgq2ZV9vuDcYwS.pdf
+Invoice_recGRlyYkHbzIP7pH,"{
+  ""total_gross"": 206.36,
+  ""total_net"": 189.67,
+  ""business_name"": ""Premier Inn Hannover City University"",
+  ""items"": [
+    {
+      ""name"": ""Frühstück Speisen"",
+      ""price"": 5.07
+    },
+    {
+      ""name"": ""Frühstück Getränke"",
+      ""price"": 5.07
+    },
+    {
+      ""name"": ""Übernachtungsteuer/Kurbeitrag"",
+      ""price"": 4.00
+    },
+    {
+      ""name"": ""Umsatzsteuer 7%"",
+      ""price"": 0.28
+    },
+    {
+      ""name"": ""Übernachtung"",
+      ""price"": 74.00
+    },
+    {
+      ""name"": ""Frühstück Speisen"",
+      ""price"": 11.83
+    },
+    {
+      ""name"": ""Frühstück Getränke"",
+      ""price"": 5.07
+    },
+    {
+      ""name"": ""Übernachtungsteuer/Kurbeitrag"",
+      ""price"": 4.00
+    },
+    {
+      ""name"": ""Umsatzsteuer 7%"",
+      ""price"": 0.28
+    },
+    {
+      ""name"": ""Übernachtung"",
+      ""price"": 90.00
+    }
+  ]
+}",Invoice,invoice_recGRlyYkHbzIP7pH.pdf
+Invoice_recdTY64ULXJkQbE5,"{
+  ""total_gross"": 17.00,
+  ""total_net"": 15.89,
+  ""business_name"": ""PIZZA-TURM"",
+  ""items"": [
+    {
+      ""name"": ""Piz. Calzon. Klein"",
+      ""price"": 11.00
+    },
+    {
+      ""name"": ""Piz. Salami-Mittel"",
+      ""price"": 6.00
+    }
+  ]
+}
+",Invoice,invoice_recdTY64ULXJkQbE5.pdf
+Invoice_recrV3FBDOzs3KlVk,"{
+  ""total_gross"": 13.62,
+  ""total_net"": 12.57,
+  ""business_name"": ""REWE Matthias Hürschel oHG"",
+  ""items"": [
+    {
+      ""name"": ""BAERLAUCHBEEKL"",
+      ""price"": 4.79
+    },
+    {
+      ""name"": ""OBADZA KLASSIK"",
+      ""price"": 2.29
+    },
+    {
+      ""name"": ""G. OLIVEN KNOB."",
+      ""price"": 2.19
+    },
+    {
+      ""name"": ""THUNFISCH IN GUS"",
+      ""price"": 2.79
+    },
+    {
+      ""name"": ""LANDSB. SCHWARZB."",
+      ""price"": 0.75
+    },
+    {
+      ""name"": ""LANDSB. MAIBOCK"",
+      ""price"": 0.75
+    }
+  ]
+}",Invoice,invoice_recrV3FBDOzs3KlVk.pdf
+Invoice_recpbzE8bfqAWcC1u,"{
+  ""total_gross"": 33.50,
+  ""total_net"": 28.15,
+  ""business_name"": ""Parkhaus Rödingsmarkt"",
+  ""items"": [
+    {
+      ""name"": ""Parkentgelt"",
+      ""price"": 33.50
+    }
+  ]
+}",Invoice,invoice_recpbzE8bfqAWcC1u.pdf
+Invoice_rec1JB6TdsNMPIl6u,"{
+  ""total_gross"": 124.21,
+  ""total_net"": 116.08,
+  ""business_name"": ""Premier Inn Hamburg City Zentrum"",
+  ""items"": [
+    {
+      ""name"": ""City Tax"",
+      ""price"": 3.00
+    },
+    {
+      ""name"": ""Accommodation"",
+      ""price"": 121.00
+    }
+  ]
+}",Invoice,invoice_rec1JB6TdsNMPIl6u.pdf
+Invoice_recroURut2llhg13n,"{
+  ""total_gross"": 1.10,
+  ""total_net"": 0.92,
+  ""business_name"": ""REWE Matthias Härschel oHG"",
+  ""items"": [
+    {
+      ""name"": ""MIO MIO MATE"",
+      ""price"": 0.95
+    }
+  ]
+}",Invoice,invoice_recroURut2llhg13n.pdf
+Invoice_recLQaEnS0Wtab74M,"{
+  ""total_gross"": 19.17,
+  ""total_net"": 17.41,
+  ""business_name"": ""REWE Patrick Vorig oHG"",
+  ""items"": [
+    {
+      ""name"": ""Kerrygold Cheddar"",
+      ""price"": 2.79
+    },
+    {
+      ""name"": ""Milram Burlander"",
+      ""price"": 2.49
+    },
+    {
+      ""name"": ""Gouda JG Scheib"",
+      ""price"": 2.29
+    },
+    {
+      ""name"": ""Anno 1688"",
+      ""price"": 2.49
+    },
+    {
+      ""name"": ""Cranberries"",
+      ""price"": 3.79
+    },
+    {
+      ""name"": ""Landsb. Schwarzb."",
+      ""price"": 0.75
+    },
+    {
+      ""name"": ""Zewa Ultra Soft"",
+      ""price"": 4.49
+    }
+  ]
+}",Invoice,invoice_recLQaEnS0Wtab74M.pdf
+Invoice_recheDwicMvy7OuI7,"{
+  ""total_gross"": 35.99,
+  ""total_net"": 30.24,
+  ""business_name"": ""SATURN ELECTRO"",
+  ""items"": [
+    {
+      ""name"": ""HAMA SMARTES HEIZKÖRPERTHE"",
+      ""price"": 35.99
+    }
+  ]
+}",Invoice,invoice_recheDwicMvy7OuI7.pdf
+Invoice_recRvZ4ecIhQniabn,"{
+  ""total_gross"": 16.25,
+  ""total_net"": 13.66,
+  ""business_name"": ""Frittenwerk GmbH"",
+  ""items"": [
+    {
+      ""name"": ""Avocado Chicken Bomb"",
+      ""price"": 4.90
+    },
+    {
+      ""name"": ""Tijuana Street Frie"",
+      ""price"": 11.35
+    }
+  ]
+}",Invoice,invoice_recRvZ4ecIhQniabn.pdf
+Invoice_recsZodqIi4dX9pMl,"{
+  ""total_gross"": 71.98,
+  ""total_net"": 60.48,
+  ""business_name"": ""SATURN ELECTRO, Willy-Brandt-Platz 5, 04109 Leipzig"",
+  ""items"": [
+    {
+      ""name"": ""HAMA SMARTES HEIZKÖRPERTHE"",
+      ""price"": 71.98
+    }
+  ]
+}",Invoice,invoice_recsZodqIi4dX9pMl.pdf
+Invoice_recZ4M2DYq1Mqmu4d,"{
+  ""total_gross"": 7.59,
+  ""total_net"": 6.38,
+  ""business_name"": ""SSP Deutschland"",
+  ""items"": [
+    {
+      ""name"": ""Matcha Green Tea Latte Venti"",
+      ""price"": 7.59
+    }
+  ]
+}",Invoice,invoice_recZ4M2DYq1Mqmu4d.pdf
+Invoice_recuDJddkivvhbOjM,"{
+  ""total_gross"": 9.49,
+  ""total_net"": 7.97,
+  ""business_name"": ""toom Baumarkt GmbH"",
+  ""items"": [
+    {
+      ""name"": ""Mellerud Schimme"",
+      ""price"": 9.49
+    }
+  ]
+}",Invoice,invoice_recuDJddkivvhbOjM.pdf
+Invoice_rec4PSvGh8YIAA5rp,"{
+  ""total_gross"": 91.19,
+  ""total_net"": 76.63,
+  ""business_name"": ""star-Tankstelle"",
+  ""items"": [
+    {
+      ""name"": ""Diesel"",
+      ""price"": 91.19
+    }
+  ]
+}",Invoice,invoice_rec4PSvGh8YIAA5rp.pdf
+Order_recYTa8jkYr21qgla,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""NORSE Tech and Innovation Hub GmbH"",
+    ""buyer_person_name"": ""Felix Hammerstein"",
+    ""buyer_email_address"": ""fhammerstein@norse-hub.com""
+  },
+  ""order"": {
+    ""order_number"": ""4701865786"",
+    ""order_date"": ""29.10.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Im Gewerbepark 21"",
+      ""delivery_address_city"": ""Münster"",
+      ""delivery_address_postal_code"": ""48157""
+    }
+  },
+  ""product"": {
+    ""product_position"": 15,
+    ""product_article_code"": ""J1387321"",
+    ""product_quantity"": 7
+  }
+}",Order,Order_recYTa8jkYr21qgla.PDF
+Order_recAoAwa5AVEcl5eM,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""TECHNOVAC Systems GmbH"",
+    ""buyer_person_name"": ""Lena Hoffmeister"",
+    ""buyer_email_address"": ""lhoffmeister@technovac.com""
+  },
+  ""order"": {
+    ""order_number"": ""6204869120"",
+    ""order_date"": ""28.10.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Bahnstrasse 12"",
+      ""delivery_address_city"": ""Heathrow"",
+      ""delivery_address_postal_code"": ""87700""
+    }
+  },
+  ""product"": {
+    ""product_position"": 10,
+    ""product_article_code"": ""12554297"",
+    ""product_quantity"": 2
+  }
+}",Order,Order_recAoAwa5AVEcl5eM.pdf
+Order_rec2lvVfoMugIXz9g,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Hofbauer Engineering GmbH"",
+    ""buyer_person_name"": ""Matthias Greiner"",
+    ""buyer_email_address"": ""mgreiner@hofbauer-eng.de""
+  },
+  ""order"": {
+    ""order_number"": ""6289574105"",
+    ""order_date"": ""30.10.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Industriestr. 9"",
+      ""delivery_address_city"": ""Falkenberg"",
+      ""delivery_address_postal_code"": ""84326""
+    }
+  },
+  ""product"": {
+    ""product_position"": 1,
+    ""product_article_code"": ""X920381342"",
+    ""product_quantity"": 3
+  }
+}
+",Order,Order_rec2lvVfoMugIXz9g.pdf
+Order_recqeBaiDdWggsToe,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""NT Precision GmbH"",
+    ""buyer_person_name"": ""Tulia Faber"",
+    ""buyer_email_address"": ""einkauf@nt-precision.de""
+  },
+  ""order"": {
+    ""order_number"": ""2202408477"",
+    ""order_date"": ""14.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Mad-Planck-Straße 10"",
+      ""delivery_address_city"": ""Weiden"",
+      ""delivery_address_postal_code"": ""92637""
+    }
+  },
+  ""product"": {
+    ""product_position"": 1,
+    ""product_article_code"": ""M7630260"",
+    ""product_quantity"": 3
+  }
+}
+",Order,Order_recqeBaiDdWggsToe.pdf
+Order_recFcl9ugKRfGg248,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Möller Industrial Tools GmbH"",
+    ""buyer_person_name"": ""Lennart Weiss"",
+    ""buyer_email_address"": ""lweiss@moeller-tools.de""
+  },
+  ""order"": {
+    ""order_number"": ""202482519"",
+    ""order_date"": ""14.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Werkstr. 19"",
+      ""delivery_address_city"": ""Ludwigshafen"",
+      ""delivery_address_postal_code"": ""67059""
+    }
+  },
+  ""product"": {
+    ""product_position"": 1,
+    ""product_article_code"": ""P45233786"",
+    ""product_quantity"": 100
+  }
+}
+",Order,Order_recFcl9ugKRfGg248.PDF
+Order_recxPHw8fuEpSKZF3,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Weber Tools GmbH"",
+    ""buyer_person_name"": ""Nico Hartmann"",
+    ""buyer_email_address"": ""nhartmann@weber-tools.com""
+  },
+  ""order"": {
+    ""order_number"": ""143632"",
+    ""order_date"": ""14.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Bergstraße 42"",
+      ""delivery_address_city"": ""Darmstadt"",
+      ""delivery_address_postal_code"": ""64293""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""G9723491"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 2,
+      ""product_article_code"": ""F9089204"",
+      ""product_quantity"": 2
+    }
+  ]
+}
+",Order,Order_recxPHw8fuEpSKZF3.pdf
+Order_reckRSXiM6fmEBMmT,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Schneider Metallbau GmbH"",
+    ""buyer_person_name"": ""David Lehmann"",
+    ""buyer_email_address"": ""produktion@schneider-metall.de""
+  },
+  ""order"": {
+    ""order_number"": ""24-3213-01"",
+    ""order_date"": ""14.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Hafenstraße 78"",
+      ""delivery_address_city"": ""Hamburg"",
+      ""delivery_address_postal_code"": ""20457""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""P8420610"",
+      ""product_quantity"": 5
+    },
+    {
+      ""product_position"": 2,
+      ""product_article_code"": ""P8420501"",
+      ""product_quantity"": 2
+    }
+  ]
+}
+",Order,Order_reckRSXiM6fmEBMmT.pdf
+Order_rec3SOqB1o5gh6ZHB,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""ZMT Precision GmbH"",
+    ""buyer_person_name"": ""Fabian Reuter"",
+    ""buyer_email_address"": ""freuter@zmtprecision.de""
+  },
+  ""order"": {
+    ""order_number"": ""67078"",
+    ""order_date"": ""15.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Industriestraße 12"",
+      ""delivery_address_city"": ""Düsseldorf"",
+      ""delivery_address_postal_code"": ""40231""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""W50410008"",
+      ""product_quantity"": 20
+    },
+    {
+      ""product_position"": 2,
+      ""product_article_code"": ""H8616501"",
+      ""product_quantity"": 1
+    },
+    {
+      ""product_position"": 3,
+      ""product_article_code"": ""P8321501"",
+      ""product_quantity"": 1
+    }
+  ]
+}
+",Order,Order_rec3SOqB1o5gh6ZHB.pdf
+Order_rec12Fz5wemRIsfAJ,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""BauerTech GmbH"",
+    ""buyer_person_name"": ""Sophie Lehmann"",
+    ""buyer_email_address"": ""slehmann@bauertech.de""
+  },
+  ""order"": {
+    ""order_number"": ""4500741345"",
+    ""order_date"": ""15.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Industriestrasse 5"",
+      ""delivery_address_city"": ""Reutlingen"",
+      ""delivery_address_postal_code"": ""72760""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 10,
+      ""product_article_code"": ""U0400180"",
+      ""product_quantity"": 8
+    }
+  ]
+}
+",Order,Order_rec12Fz5wemRIsfAJ.PDF
+Order_recJHwr39KljOIkQY,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Steinbach Precision GmbH & Co. KG"",
+    ""buyer_person_name"": ""Lukas Mertens"",
+    ""buyer_email_address"": ""einkauf@steinbach-precision.de""
+  },
+  ""order"": {
+    ""order_number"": ""241494"",
+    ""order_date"": ""15.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Industriepark 45"",
+      ""delivery_address_city"": ""Bad Hersfeld"",
+      ""delivery_address_postal_code"": ""36251""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""15630610"",
+      ""product_quantity"": 1
+    },
+    {
+      ""product_position"": 2,
+      ""product_article_code"": ""7550391"",
+      ""product_quantity"": 1
+    },
+    {
+      ""product_position"": 3,
+      ""product_article_code"": ""8560610"",
+      ""product_quantity"": 1
+    },
+    {
+      ""product_position"": 4,
+      ""product_article_code"": ""8580391"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 5,
+      ""product_article_code"": ""8585501"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 6,
+      ""product_article_code"": ""8585610"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 7,
+      ""product_article_code"": ""8660180"",
+      ""product_quantity"": 3
+    },
+    {
+      ""product_position"": 8,
+      ""product_article_code"": ""8678501"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 9,
+      ""product_article_code"": ""B570150280"",
+      ""product_quantity"": 2
+    },
+    {
+      ""product_position"": 10,
+      ""product_article_code"": ""X6561140"",
+      ""product_quantity"": 2
+    }
+  ]
+}
+",Order,Order_recJHwr39KljOIkQY.PDF
+Order_recQdBIMtJOivz7sD,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""NovaWorks AG GmbH"",
+    ""buyer_person_name"": ""Lukas Schneider"",
+    ""buyer_email_address"": ""l.schneider@novaworks.eu""
+  },
+  ""order"": {
+    ""order_number"": ""4000999189"",
+    ""order_date"": ""07.03.2025"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Handelsweg 9"",
+      ""delivery_address_city"": ""Darmstadt"",
+      ""delivery_address_postal_code"": ""64283""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 10,
+      ""product_article_code"": ""P8201300"",
+      ""product_quantity"": 10
+    }
+  ]
+}
+",Order,Order_recQdBIMtJOivz7sD.pdf
+Order_recekBHZwJlB51UEQ,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""FerroLine GmbH"",
+    ""buyer_person_name"": ""Martin Köhler"",
+    ""buyer_email_address"": ""m.koehler@ferroline.de""
+  },
+  ""order"": {
+    ""order_number"": ""4700632819"",
+    ""order_date"": ""01.12.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Siemensallee 3"",
+      ""delivery_address_city"": ""Karlsruhe"",
+      ""delivery_address_postal_code"": ""76185""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""C15620140"",
+      ""product_quantity"": 5
+    }
+  ]
+}
+",Order,Order_recekBHZwJlB51UEQ.PDF
+Order_rec1nJMeDOHhOSMey,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Prima Labs GmbH"",
+    ""buyer_person_name"": ""Jonas Weber"",
+    ""buyer_email_address"": ""j.weber@primalabs.de""
+  },
+  ""order"": {
+    ""order_number"": ""20240495"",
+    ""order_date"": ""19.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Technologiepark 8"",
+      ""delivery_address_city"": ""Freiburg"",
+      ""delivery_address_postal_code"": ""79098""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""M5714080"",
+      ""product_quantity"": 20
+    }
+  ]
+}
+",Order,Order_rec1nJMeDOHhOSMey.pdf
+Order_recwdac9eVzYdnGMO,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Nexa Solutions GmbH"",
+    ""buyer_person_name"": ""Katharina Wolf"",
+    ""buyer_email_address"": ""katharina.wolf@nexasolutions.de""
+  },
+  ""order"": {
+    ""order_number"": ""1242709"",
+    ""order_date"": ""18.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Mainstraße 22"",
+      ""delivery_address_city"": ""Mainz"",
+      ""delivery_address_postal_code"": ""55116""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""P8400100"",
+      ""product_quantity"": 5
+    }
+  ]
+}
+",Order,Order_recwdac9eVzYdnGMO.PDF
+Order_recOE9INV5eS3mX3l,"{
+  ""buyer"": {
+    ""buyer_company_name"": ""Altura Dynamics GmbH"",
+    ""buyer_person_name"": ""Tobias Meier"",
+    ""buyer_email_address"": ""t.meier@alturadyn.de""
+  },
+  ""order"": {
+    ""order_number"": ""463469"",
+    ""order_date"": ""19.11.2024"",
+    ""delivery"": {
+      ""delivery_address_street"": ""Gutenbergstraße 4"",
+      ""delivery_address_city"": ""Wiesbaden"",
+      ""delivery_address_postal_code"": ""65183""
+    }
+  },
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""ZFR0000077"",
+      ""product_quantity"": 10
+    }
+  ]
+}
+",Order,Order_recOE9INV5eS3mX3l.pdf
